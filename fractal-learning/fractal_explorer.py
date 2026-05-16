@@ -12,7 +12,7 @@ class Viewport:
 
 class FractalExplorer:
     """
-    最小限だけどちゃんと遊べるフラクタルエクスプローラ。
+    最小限だけど動くフラクタルエクスプローラ。
 
     構造イメージ:
       - Viewport: 「どこを見てるか」
